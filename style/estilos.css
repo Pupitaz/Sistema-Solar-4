@@ -4,7 +4,7 @@
 }
 body{
     height: none;
-    background-image:url("./image/universo.jpg");
+    background: linear-gradient(to right,#cb80e2, #6466e0);
     background-repeat: no-repeat; /*no repetir la imagen*/
     background-size: 100%; /*tamaño de la imagen*/
     font-family: sans-serif;
