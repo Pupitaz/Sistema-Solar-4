@@ -4,8 +4,7 @@
 }
 body{
     height: none;
-    
-    background-image:("/image/universo.jpg");
+    background-image:url("./image/universo.jpg");
     background-repeat: no-repeat; /*no repetir la imagen*/
     background-size: 100%; /*tamaño de la imagen*/
     font-family: sans-serif;
